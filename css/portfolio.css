@@ -185,6 +185,10 @@ body {
   line-height: 1.8;
 }
 
+.landing .lan-text span{
+  color: var(--main-color);
+}
+
 /* Feature */
 
 .feature{
